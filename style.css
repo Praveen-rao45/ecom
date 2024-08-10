@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Krona+One&family=Poppins:ital,wght@0,100;0,200;1,100&family=Sacramento&family=Tangerine:wght@400;700&display=swap');
+
+
+ul{ 
+    
+    border: solid wheat;
+    border-radius: 20px;
+    background:linear-gradient(wheat,blue );
+   
+}
+button{
+    margin-left: 20px;
+    margin-top: 0%;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+}
+button:hover{
+    color:chartreuse;
+    box-shadow: 2px 3px 8px rgb(30, 196, 8);
+}
+li{
+    display: inline-block;  
+    line-height: 50px;
+    margin-right: -400px;
+    margin-left: 420px;
+    font-size: 18px;
+ }
+li a{
+    text-decoration: none;
+    color:white;
+    background-color: hsla(0, 0%, 0%, 0.932);
+    padding: 5px;
+    border: solid black;
+    border-radius: 10px;
+}
+span{
+    color: black;
+    font-weight: 900;
+}
+span:hover{
+    color: chartreuse;
+}
+li a:hover{
+    color:chartreuse;
+    box-shadow: 2px 3px 8px rgb(30, 196, 8);
+}
+.cls1{
+   position : absolute;
+    z-index: -1;
+    filter: brightness(60%);
+    text-align: center;
+     width: 100%;
+     left: 0%;
+     top: 70.5px;
+     
+  
+}
+body{
+    background-color:rgba(0, 0, 0, 0.932);
+    border-radius: 10px;
+    font-family: 'Courgette', cursive;
+   
+}
+h1{
+    color: hsla(0, 0%, 0%, 0.822);
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+i{  font-size: 30;
+    color: rgb(5, 8, 3);
+    margin: 10px,0,0,0;
+    cursor: pointer;
+}
+.head{
+    display: inline;
+}
+.content{
+    color: white;
+    font-size: 30;
+    text-align: center;
+    margin-top: 0%;
+    padding: 0%;
+    
+}
+#graduate{
+    color: white;
+    font-size: 50;
+    margin-left: 230px;
+    margin-top: 50px;
+    display: inline;
+}
+#book{
+    color: white;
+    font-size: 45;
+    margin-left: 900px;
+    margin-top: 150px;
+    display: inline;
+
+}
+.cls2{
+    position : absolute;
+    z-index: -1;
+    filter: brightness(40%);
+    text-align: center;
+     width: 100%;
+     left: 0%;
+
+}
+h2{
+    text-align: center;
+    color: black;
+    font-size: 35;
+    border: solid 4px white;
+    padding: 5px;
+    width: 40%;
+    margin-left: 430px;
+    border-radius: 20px;
+    background:linear-gradient(wheat,blue );
+}
+h2:hover{
+    background-color: yellow;
+}
+.courses{
+    color: white;
+    font-size: 30;
+    margin-left: 150px;
+    float: left;
+    display: inline-flex;
+} 
+.course1{
+    color: white;
+    font-size: 30;
+    margin-left:1130px;
+    margin-top: 10px;
+}
+.cls3{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    left: 0%;
+    z-index: -1;
+    filter: brightness(20%);
+}
+table,th,td{
+    color: white;
+    border: solid white;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 100px;
+    height: fit-content;
+    width: 50%;
+    font-size: 30;
+}
+th{
+    text-transform: uppercase;
+    padding: 30px;
+   
+}
+td{
+    text-align: center;
+    text-indent: 5px;
+    padding: 20px;
+}
+.heading{
+    color:black;
+    text-align: center;
+    font-size: 30;
+    border: solid wheat;
+    border-radius: 20px;
+    background:linear-gradient(wheat,blue );
+    margin-left: 350px;
+    font-weight: 500;
+    margin-top: 50px;
+    width: 800px;
+    padding: 5px;
+  
+
+}
+.cls4{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    left: 0%;
+    z-index: -1;
+    filter: brightness(35%);
+    padding: 10px black;
+}
+.head1{
+    color:black;
+    text-align: center;
+    font-size: 30;
+    border: solid wheat;
+    border-radius: 20px;
+    background:linear-gradient(wheat,blue );
+    margin-left: 500px;
+    font-weight: 500;
+    margin-top: 50px;
+    width: 500px;
+
+}
+.outline{
+    color: white;
+    font-size: 30;
+    text-align: center;
+    
+}
+.experts{
+   margin-left: 370px;
+   border: solid white;
+   padding: 10px;
+   border-radius: 20px;
+   width: 50%;   
+   background-color:transparent;
+}
+.experts:hover{
+    background:linear-gradient(blue,white);
+}
+.about{
+    color: white;    
+}
+.about:hover{
+    color: black;
+}
+n{
+    margin-left: 370px;
+    cursor: pointer;
+}
+n:hover{
+    color: yellow;
+
+}
+.final{
+    color: white;
+    font-size: 30;
+    float: left;
+    margin-left: 250px;
+}
+.final:hover{
+    
+    cursor: pointer;
+} 
+.final:hover{
+    color: yellow;
+}
+
+.media{
+    color: white;
+    margin-left: 100px;
+}
+#fa,#in,#li,#tw{
+    color: white;
+}
+#fa{
+    padding: 5px;
+}
+#in{
+    padding: 5px;
+}
+#tw{
+    padding: 5px;
+}
+#li{
+    padding: 5px;
+}
+#fa:hover{
+    color: yellow;
+}
+#li:hover{
+    color: yellow;
+}
+#tw:hover{
+    color: yellow;
+}
+#in:hover{
+    color: yellow;
+}
+fi{
+    padding-bottom: 100px;
+}
